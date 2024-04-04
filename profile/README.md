@@ -1,5 +1,5 @@
 <h1 align="center">
-TONE
+Tone™
 </h1>
 
 <p align="center">
