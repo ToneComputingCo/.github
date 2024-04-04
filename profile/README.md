@@ -17,5 +17,5 @@ starting in the form of a necklace.</em>
 > no warranty is provided, and users accept all liability.
 
 <p align="center">
-  <img src="https://tone.computer/images/render2.png" style="height: 337px; object-fit: none;" alt="tone-1">
+  <img src="https://tone.computer/images/render2.png" alt="tone-1">
 </p>
