@@ -7,12 +7,12 @@ Tone™
 starting in the form of a necklace.</em>
 </p>
 
-### Devoloped by [Jackson Oswalt](https://www.linkedin.com/in/jackson-oswalt-071268238/), [Teddy Warner](https://teddywarner.org/About-Me/about/) & [Shubhayan Srivastava](https://www.linkedin.com/in/shubhayan935/).
+### Devoloped by [Teddy Warner](https://teddywarner.org/About-Me/about/) & [Jackson Oswalt](https://www.linkedin.com/in/jackson-oswalt-071268238/).
 
-**© Jackson Oswalt, Teddy Warner, Shubhayan Srivastava - 2024**
+**© Teddy Warner & Jackson Oswalt- 2024**
 > This work is licensed under CC BY-NC-SA 4.0 and may be reproduced, modified,
 > distributed, performed, and displayed for any non-commercial purpose, but
-> must acknowledge Jackson Oswalt, Teddy Warner, and Shubhayan Srivastava.
+> must acknowledge Teddy Warner and Jackson Oswalt.
 > Copyright is retained and must be preserved. The work is provided as is;
 > no warranty is provided, and users accept all liability.
 
